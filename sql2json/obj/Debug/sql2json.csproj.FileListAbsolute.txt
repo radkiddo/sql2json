@@ -1,0 +1,6 @@
+c:\Users\administrator\documents\visual studio 2013\Projects\sql2json\sql2json\bin\Debug\sql2json.exe.config
+c:\Users\administrator\documents\visual studio 2013\Projects\sql2json\sql2json\bin\Debug\sql2json.exe
+c:\Users\administrator\documents\visual studio 2013\Projects\sql2json\sql2json\bin\Debug\sql2json.pdb
+c:\Users\administrator\documents\visual studio 2013\Projects\sql2json\sql2json\obj\Debug\sql2json.exe
+c:\Users\administrator\documents\visual studio 2013\Projects\sql2json\sql2json\obj\Debug\sql2json.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\sql2json\sql2json\obj\Debug\sql2json.csprojResolveAssemblyReference.cache
